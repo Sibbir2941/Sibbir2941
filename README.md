@@ -26,12 +26,21 @@
   🚀 I'm a passionate developer working on <strong>CyberX Roleplay (CX:RP)</strong>.
 </p>
 
-<!-- Skills -->
+<!-- Skills with Animated Badges -->
 <h3 align="center">Skills:</h3>
 <p align="center">
-  Python &nbsp; <img src="https://progress-bar.dev/80" alt="Python" /><br>
-  Java &nbsp; <img src="https://progress-bar.dev/60" alt="Java" /><br>
-  HTML/CSS &nbsp; <img src="https://progress-bar.dev/90" alt="HTML/CSS" /><br>
+  <div class="skill-badge">
+    Python &nbsp; 
+    <div class="skill-animation"></div>
+  </div><br>
+  <div class="skill-badge">
+    Java &nbsp; 
+    <div class="skill-animation"></div>
+  </div><br>
+  <div class="skill-badge">
+    HTML/CSS &nbsp; 
+    <div class="skill-animation"></div>
+  </div><br>
   <!-- Add more skills here -->
 </p>
 
@@ -64,3 +73,37 @@
 <p align="center">
   🌟 Feel free to explore my repositories and get in touch. Let's build something amazing together! 🌟
 </p>
+
+<!-- CSS for Animated Skill Badges -->
+<style>
+  .skill-badge {
+    display: inline-block;
+    margin: 5px;
+    background-color: #007acc;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    position: relative;
+  }
+  
+  .skill-animation {
+    width: 0;
+    height: 100%;
+    background-color: #1a73e8;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    animation: fill 2s ease-in-out forwards;
+  }
+  
+  @keyframes fill {
+    0% {
+      width: 0;
+    }
+    100% {
+      width: 100%;
+    }
+  }
+</style>
