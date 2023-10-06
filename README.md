@@ -32,20 +32,42 @@
   🚀 As a student who's passionate about coding, I'm continuously learning and experimenting with various programming languages and technologies. While I may not have certificates, my passion drives me to explore and innovate.
 </p>
 
-<!-- Skills with Icons -->
+<!-- Skills with Colorful Circles -->
 <h3 align="center">Skills:</h3>
-<p align="center">
-  <!-- Use icons for each skill -->
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" alt="JavaScript" title="JavaScript" />&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" title="PHP" />&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" />&nbsp;
+<div align="center" style="display: flex; justify-content: center;">
+  <!-- Customize the colors and percentages as needed -->
+  <div style="margin: 10px;">
+    <div class="circle" style="--percent: 90%; --color: #ff5733;"></div>
+    <p>Python</p>
+  </div>
+  <div style="margin: 10px;">
+    <div class="circle" style="--percent: 80%; --color: #33ff57;"></div>
+    <p>Java</p>
+  </div>
+  <div style="margin: 10px;">
+    <div class="circle" style="--percent: 70%; --color: #5733ff;"></div>
+    <p>C++</p>
+  </div>
   <!-- Add more skills here -->
-</p>
+</div>
+
+<style>
+  .circle {
+    width: 80px;
+    height: 80px;
+    background: conic-gradient(
+      var(--color) var(--percent),
+      transparent 0
+    );
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+  }
+</style>
 
 
 <!-- Inspirational Quote -->
