@@ -7,7 +7,7 @@
 
 <!-- Additional Information -->
 <p align="center">
-  🌟 Feel free to explore my repositories and get in touch. Let's build something amazing together! 🌟
+  🌟 Welcome to my GitHub profile! I'm a passionate developer with a focus on creating remarkable user experiences through code. Feel free to explore my repositories and get in touch. Let's build something amazing together! 🌟
 </p>
 
 <!-- Profile Views -->
@@ -29,58 +29,48 @@
   </a>
 </p>
 
-<!-- Bio -->
+<!-- Professional Summary -->
+<h3 align="center">Professional Summary:</h3>
 <p align="center">
-  🚀 I'm a passionate developer working on <strong>CyberX Roleplay (CX:RP)</strong>.
+  🚀 I'm currently working on <strong>CyberX Roleplay (CX:RP)</strong>, where I'm leveraging my expertise in Python, Java, C++, and more to create immersive user experiences.
 </p>
 
 <!-- Skills with Icons -->
 <h3 align="center">Skills:</h3>
 <p align="center">
-  <div class="skill-badge">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /><br>
-    Python
-  </div>
-  <div class="skill-badge">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /><br>
-    Java
-  </div>
-  <div class="skill-badge">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /><br>
-    C
-  </div>
-  <div class="skill-badge">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /><br>
-    C++
-  </div>
-  <div class="skill-badge">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /><br>
-    C#
-  </div>
-  <div class="skill-badge">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40" /><br>
-    SQL
-  </div>
-  <div class="skill-badge">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" /><br>
-    HTML
-  </div>
-  <div class="skill-badge">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" /><br>
-    CSS
-  </div>
-  <div class="skill-badge">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /><br>
-    PHP
-  </div>
+  <!-- Add your custom badges for skills here -->
+  <img src="Your-Skill-Badge-URL" alt="Python" /><br>
+  Python &nbsp; Java &nbsp; C &nbsp; C++ &nbsp; C# &nbsp; SQL &nbsp; HTML &nbsp; CSS &nbsp; PHP &nbsp; JavaScript &nbsp; 
   <!-- Add more skills here -->
 </p>
 
-<!-- CSS for Skill Badges -->
-<style>
-  .skill-badge {
-    display: inline-block;
-    margin: 10px;
-    text-align: center;
-  }
-</style>
+<!-- Work Experience -->
+<h3 align="center">Work Experience:</h3>
+<p align="center">
+  <!-- Add details about your work experience -->
+  <strong>Software Developer</strong> at ABC Company<br>
+  <em>June 20XX - Present</em><br>
+  Responsibilities: Describe your responsibilities and achievements here.
+</p>
+
+<!-- Education -->
+<h3 align="center">Education:</h3>
+<p align="center">
+  <!-- Add details about your education -->
+  <strong>Bachelor of Computer Science</strong> at XYZ University<br>
+  <em>201X - 20XX</em><br>
+  Relevant Courses: List relevant courses or certifications.
+</p>
+
+<!-- Project Highlights -->
+<h3 align="center">Project Highlights:</h3>
+<p align="center">
+  <!-- Highlight some of your significant projects -->
+  <strong>Project Name 1:</strong><br>
+  Description: Provide a brief description of the project and technologies used.<br>
+  Impact: Mention the impact or results achieved.
+
+  <strong>Project Name 2:</strong><br>
+  Description: Provide a brief description of the project and technologies used.<br>
+  Impact: Mention the impact or results achieved.
+</p>
