@@ -91,14 +91,12 @@
   <!-- You can embed your GitHub contributions graph here -->
 </p>
 
-
 <!-- GitHub Activity -->
 <h3 align="center">GitHub Activity:</h3>
 <p align="center">
-  📊 Recent commits, issues, and pull requests on GitHub.<br />
+  <img src="https://github-readme-stats.vercel.app/api?username=sibbir2941&show_icons=true&theme=radical" alt="GitHub Activity" /><br />
   <!-- You can showcase your recent GitHub activity here -->
 </p>
-
 <!-- Inspirational Quote -->
 <p align="center">
   💡 Learning never exhausts the mind.
