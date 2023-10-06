@@ -1,6 +1,7 @@
 <!-- Introduction -->
 <h1 align="center">Hi there! 👋 I'm Mohammad Sibbir</h1>
 <h3 align="center">Crafting Engaging User Experiences with Code.</h3>
+
 <!-- Animated GIF -->
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
@@ -8,6 +9,7 @@
 <p align="center">
   🌟 Feel free to explore my repositories and get in touch. Let's build something amazing together! 🌟
 </p>
+
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sibbir2941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -32,42 +34,53 @@
   🚀 I'm a passionate developer working on <strong>CyberX Roleplay (CX:RP)</strong>.
 </p>
 
-<!-- Skills with Animated Badges -->
+<!-- Skills with Icons -->
 <h3 align="center">Skills:</h3>
 <p align="center">
   <div class="skill-badge">
-    Python &nbsp; 
-    <div class="skill-animation"></div>
-  </div><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /><br>
+    Python
+  </div>
   <div class="skill-badge">
-    Java &nbsp; 
-    <div class="skill-animation"></div>
-  </div><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /><br>
+    Java
+  </div>
   <div class="skill-badge">
-    HTML/CSS &nbsp; 
-    <div class="skill-animation"></div>
-  </div><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /><br>
+    C
+  </div>
+  <div class="skill-badge">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /><br>
+    C++
+  </div>
+  <div class="skill-badge">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /><br>
+    C#
+  </div>
+  <div class="skill-badge">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40" /><br>
+    SQL
+  </div>
+  <div class="skill-badge">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" /><br>
+    HTML
+  </div>
+  <div class="skill-badge">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" /><br>
+    CSS
+  </div>
+  <div class="skill-badge">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /><br>
+    PHP
+  </div>
   <!-- Add more skills here -->
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibbir2941&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibbir2941&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibbir2941" alt="GitHub Streak" />
-</p>
-
-<!-- Spotify Presence Status -->
-<p align="center">
-  <a href="https://open.spotify.com/user/your-spotify-username" target="blank">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Presence" />
-  </a>
-</p>
+<!-- CSS for Skill Badges -->
+<style>
+  .skill-badge {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+  }
+</style>
