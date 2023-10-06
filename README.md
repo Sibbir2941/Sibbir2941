@@ -83,11 +83,10 @@
   </a>
 </p>
 
-
-<!-- Contributions Graph -->
+<!-- GitHub Contributions -->
 <h3 align="center">GitHub Contributions:</h3>
 <p align="center">
-  <img src="GitHub_Contributions_Link" alt="GitHub Contributions Graph" /><br />
+  <img src="https://github.com/sibbir2941/sibbir2941/blob/main/images/contributions-graph.png" alt="GitHub Contributions Graph" /><br />
   <!-- You can embed your GitHub contributions graph here -->
 </p>
 
