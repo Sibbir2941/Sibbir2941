@@ -1,16 +1,17 @@
 <!-- Introduction -->
 <h1 align="center">Hi there! 👋 I'm Mohammad Sibbir</h1>
 <h3 align="center">Crafting Engaging User Experiences with Code.</h3>
-
 <!-- Profile Views -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sibbir2941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
+    <img src="https://komarev.com/ghpvc/?username=sibbir2941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+  
 <!-- Additional Information -->
 <p align="center">
   🌟 Welcome to my GitHub profile! I'm a passionate self-taught developer with a knack for coding and creating amazing experiences. Feel free to explore my projects and connect with me. Let's build something incredible together! 🌟
 </p>
+
+
 
 <!-- Personal Statement -->
 <h3 align="center">About Me:</h3>
@@ -24,12 +25,14 @@
   📚 Self-taught programmer with a focus on practical skills.
 </p>
 
+
 <!-- Awards and Achievements -->
 <h3 align="center">Awards and Achievements:</h3>
 <p align="center">
   🥇 Certificate in Web Development from Cybxer Institute - 2023<br />
   <!-- Add more awards and achievements as applicable -->
 </p>
+
 
 <!-- Skills -->
 <h3 align="center">Skills:</h3>
@@ -45,11 +48,8 @@
   <!-- Add more skills here -->
 </p>
 
-<!-- Spotify Now Playing -->
-<h3 align="center">Now Playing on Spotify 🎶:</h3>
-<p align="center">
-  <img src="https://spotify-readme-sibbir2941.vercel.app/api/spotify" alt="Currently playing on Spotify" />
-</p>
+
+
 
 <!-- GitHub Stats -->
 <h3 align="center">GitHub Stats:</h3>
@@ -59,11 +59,7 @@
   <!-- You can add more GitHub statistics as needed -->
 </p>
 
-<!-- GitHub Activity Heatmap -->
-<h3 align="center">GitHub Activity Heatmap:</h3>
-<p align="center">
-  <img src="https://github-readme-calendar.sibbir2941.vercel.app/?username=sibbir2941" alt="GitHub Activity Heatmap" />
-</p>
+
 
 <!-- Contact Information -->
 <h3 align="center">Contact Information:</h3>
@@ -100,7 +96,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sibbir2941&show_icons=true&theme=radical" alt="GitHub Activity" /><br />
   <!-- You can showcase your recent GitHub activity here -->
 </p>
-
 <!-- Inspirational Quote -->
 <p align="center">
   💡 Learning never exhausts the mind.
