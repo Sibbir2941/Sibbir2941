@@ -29,7 +29,6 @@
 <!-- Awards and Achievements -->
 <h3 align="center">Awards and Achievements:</h3>
 <p align="center">
-  🏆 Winner of Coding Competition - 2023<br />
   🥇 Certificate in Web Development from Cybxer Institute - 2023<br />
   <!-- Add more awards and achievements as applicable -->
 </p>
