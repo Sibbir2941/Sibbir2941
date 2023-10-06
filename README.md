@@ -27,10 +27,11 @@
 </p>
 
 <!-- Skills -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Skills:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  Python &nbsp; <img src="https://progress-bar.dev/80" alt="Python" /><br>
+  Java &nbsp; <img src="https://progress-bar.dev/60" alt="Java" /><br>
+  HTML/CSS &nbsp; <img src="https://progress-bar.dev/90" alt="HTML/CSS" /><br>
   <!-- Add more skills here -->
 </p>
 
@@ -47,6 +48,13 @@
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibbir2941" alt="GitHub Streak" />
+</p>
+
+<!-- Spotify Presence Status -->
+<p align="center">
+  <a href="https://open.spotify.com/user/your-spotify-username" target="blank">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Presence" />
+  </a>
 </p>
 
 <!-- Animated GIF -->
