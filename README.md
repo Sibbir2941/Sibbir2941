@@ -35,24 +35,11 @@
 <!-- Education -->
 <h3 align="center">Education:</h3>
 <p align="center">
-  🎓 Bachelor's Degree in Computer Science (Optional)<br />
   📚 Self-taught programmer with a focus on practical skills.
 </p>
 
-<!-- Projects -->
-<h3 align="center">Projects:</h3>
-<p align="center">
-  🌐 [Project 1 Name](Project1_Link) - Description of Project 1.<br />
-  🌐 [Project 2 Name](Project2_Link) - Description of Project 2.<br />
-  <!-- Add more projects with links and descriptions -->
-</p>
 
-<!-- Work Experience -->
-<h3 align="center">Work Experience:</h3>
-<p align="center">
-  💼 Software Developer Intern at [Company Name](Company_Website) - Description of your work and responsibilities.<br />
-  <!-- Add more work experience if applicable -->
-</p>
+
 
 <!-- GitHub Stats -->
 <h3 align="center">GitHub Stats:</h3>
@@ -62,44 +49,23 @@
   <!-- You can add more GitHub statistics as needed -->
 </p>
 
-<!-- Open Source Contributions -->
-<h3 align="center">Open Source Contributions:</h3>
-<p align="center">
-  🌐 [Project 1](Project1_Link) - Description of your contribution.<br />
-  🌐 [Project 2](Project2_Link) - Description of your contribution.<br />
-  <!-- Add more open source contributions with links and descriptions -->
-</p>
+
 
 <!-- Awards and Achievements -->
 <h3 align="center">Awards and Achievements:</h3>
 <p align="center">
-  🏆 Winner of Coding Competition X - Year<br />
-  🥇 Certificate in Web Development from XYZ Institute - Year<br />
+  🏆 Winner of Coding Competition - 2023<br />
+  🥇 Certificate in Web Development from Cybxer Institute - 2023<br />
   <!-- Add more awards and achievements as applicable -->
 </p>
 
-<!-- Blog or Portfolio -->
-<h3 align="center">Blog and Portfolio:</h3>
-<p align="center">
-  📝 [Personal Blog](Blog_Link) - Explore my technical articles and insights.<br />
-  🌐 [Portfolio Website](Portfolio_Link) - View my showcased projects and work.<br />
-</p>
 
 <!-- Contact Information -->
 <h3 align="center">Contact Information:</h3>
 <p align="center">
-  ✉️ Email: your.email@example.com<br />
-  📱 Phone: +1-123-456-7890 (Optional)<br />
+  ✉️ Email: asibbir997@gmail.com<br />
+  📱 Discord: mohammadsibbir<br />
   <!-- You can add more contact details as needed -->
-</p>
-
-<!-- Badges for Tools and Technologies -->
-<h3 align="center">Tools and Technologies:</h3>
-<p align="center">
-  <!-- Add badges or icons for your preferred tools and technologies -->
-  <img src="Badge_Link_1" alt="Badge 1" />
-  <img src="Badge_Link_2" alt="Badge 2" />
-  <!-- Add more badges as applicable -->
 </p>
 
 <!-- Contributions Graph -->
@@ -109,13 +75,6 @@
   <!-- You can embed your GitHub contributions graph here -->
 </p>
 
-<!-- Recent Blog Posts -->
-<h3 align="center">Recent Blog Posts:</h3>
-<p align="center">
-  📰 [Blog Post 1](Blog_Post_1_Link) - Title and brief description of the blog post.<br />
-  📰 [Blog Post 2](Blog_Post_2_Link) - Title and brief description of the blog post.<br />
-  <!-- Add links and descriptions to your recent blog posts -->
-</p>
 
 <!-- GitHub Activity -->
 <h3 align="center">GitHub Activity:</h3>
