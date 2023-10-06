@@ -1,16 +1,16 @@
 <!-- Introduction -->
 <h1 align="center">Hi there! 👋 I'm Mohammad Sibbir</h1>
 <h3 align="center">Crafting Engaging User Experiences with Code.</h3>
-
+<!-- Profile Views -->
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=sibbir2941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+  
 <!-- Additional Information -->
 <p align="center">
   🌟 Welcome to my GitHub profile! I'm a passionate self-taught developer with a knack for coding and creating amazing experiences. Feel free to explore my projects and connect with me. Let's build something incredible together! 🌟
 </p>
 
-<!-- Profile Views -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sibbir2941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 
 <!-- Personal Statement -->
