@@ -65,7 +65,7 @@
 <h3 align="center">Contact Information:</h3>
 <p align="center">
   ✉️ Email: [asibbir997@gmail.com](mailto:asibbir997@gmail.com)<br />
-  📱 Discord: mohammadsibbir#1234<br />
+  📱 Discord: mohammadsibbir<br />
   <!-- You can add more contact details as needed -->
 </p>
 
