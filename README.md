@@ -32,42 +32,15 @@
   🚀 As a student who's passionate about coding, I'm continuously learning and experimenting with various programming languages and technologies. While I may not have certificates, my passion drives me to explore and innovate.
 </p>
 
-<!-- Skills with Colorful Circles -->
+<!-- Skills -->
 <h3 align="center">Skills:</h3>
-<div align="center" style="display: flex; justify-content: center;">
-  <!-- Customize the colors and percentages as needed -->
-  <div style="margin: 10px;">
-    <div class="circle" style="--percent: 90; --color: #ff5733;"></div>
-    <p>Python</p>
-  </div>
-  <div style="margin: 10px;">
-    <div class="circle" style="--percent: 80; --color: #33ff57;"></div>
-    <p>Java</p>
-  </div>
-  <div style="margin: 10px;">
-    <div class="circle" style="--percent: 70; --color: #5733ff;"></div>
-    <p>C++</p>
-  </div>
+<p align="center">
+  <!-- Customize the proficiency level as needed -->
+  <img src="https://img.shields.io/badge/Python-90%25-brightgreen" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-80%25-yellow" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-70%25-blue" alt="C++" />
   <!-- Add more skills here -->
-</div>
-
-<style>
-  .circle {
-    width: 80px;
-    height: 80px;
-    background: conic-gradient(
-      var(--color) var(--percent)%,
-      transparent 0
-    );
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 18px;
-    font-weight: bold;
-    color: #fff;
-  }
-</style>
+</p>
 
 <!-- Inspirational Quote -->
 <p align="center">
