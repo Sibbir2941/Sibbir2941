@@ -37,15 +37,15 @@
 <div align="center" style="display: flex; justify-content: center;">
   <!-- Customize the colors and percentages as needed -->
   <div style="margin: 10px;">
-    <div class="circle" style="--percent: 90%; --color: #ff5733;"></div>
+    <div class="circle" style="--percent: 90; --color: #ff5733;"></div>
     <p>Python</p>
   </div>
   <div style="margin: 10px;">
-    <div class="circle" style="--percent: 80%; --color: #33ff57;"></div>
+    <div class="circle" style="--percent: 80; --color: #33ff57;"></div>
     <p>Java</p>
   </div>
   <div style="margin: 10px;">
-    <div class="circle" style="--percent: 70%; --color: #5733ff;"></div>
+    <div class="circle" style="--percent: 70; --color: #5733ff;"></div>
     <p>C++</p>
   </div>
   <!-- Add more skills here -->
@@ -56,7 +56,7 @@
     width: 80px;
     height: 80px;
     background: conic-gradient(
-      var(--color) var(--percent),
+      var(--color) var(--percent)%,
       transparent 0
     );
     border-radius: 50%;
@@ -68,7 +68,6 @@
     color: #fff;
   }
 </style>
-
 
 <!-- Inspirational Quote -->
 <p align="center">
