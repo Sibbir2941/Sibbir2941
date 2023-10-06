@@ -1,7 +1,13 @@
 <!-- Introduction -->
 <h1 align="center">Hi there! 👋 I'm Mohammad Sibbir</h1>
 <h3 align="center">Crafting Engaging User Experiences with Code.</h3>
+<!-- Animated GIF -->
+<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
+<!-- Additional Information -->
+<p align="center">
+  🌟 Feel free to explore my repositories and get in touch. Let's build something amazing together! 🌟
+</p>
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sibbir2941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -65,45 +71,3 @@
     <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Presence" />
   </a>
 </p>
-
-<!-- Animated GIF -->
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
-<!-- Additional Information -->
-<p align="center">
-  🌟 Feel free to explore my repositories and get in touch. Let's build something amazing together! 🌟
-</p>
-
-<!-- CSS for Animated Skill Badges -->
-<style>
-  .skill-badge {
-    display: inline-block;
-    margin: 5px;
-    background-color: #007acc;
-    color: white;
-    padding: 5px 15px;
-    border-radius: 20px;
-    font-weight: bold;
-    position: relative;
-  }
-  
-  .skill-animation {
-    width: 0;
-    height: 100%;
-    background-color: #1a73e8;
-    position: absolute;
-    top: 0;
-    left: 0;
-    border-radius: 20px;
-    animation: fill 2s ease-in-out forwards;
-  }
-  
-  @keyframes fill {
-    0% {
-      width: 0;
-    }
-    100% {
-      width: 100%;
-    }
-  }
-</style>
