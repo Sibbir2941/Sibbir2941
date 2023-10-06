@@ -97,11 +97,15 @@
   <!-- You can showcase your recent GitHub activity here -->
 </p>
 
+
+
 <!-- Spotify Music -->
 <h3 align="center">Now Playing on Spotify:</h3>
 <p align="center">
-  <iframe src="https://open.spotify.com/embed/track/your_track_id" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  🎧 [Listen to my Spotify Music](https://open.spotify.com/track/Sibbir)
 </p>
+
+
 
 <!-- Inspirational Quote -->
 <p align="center">
