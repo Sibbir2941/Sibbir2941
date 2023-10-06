@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sibbir</h1>
 <h3 align="center">Crafting Engaging User Experiences with Code.</h3>
 
-<img align= "right" alt="coding" width="400" src= "https://user-images.githubusercontent.com/70656244/92018192-b081b300-ed09-11ea-8b1e-0f33ae3adf0f.gif" >
+<img align= "right" alt="coding" width="400" src= "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibbir2941&label=Profile%20views&color=0e75b6&style=flat" alt="sibbir2941" /> </p>
 
