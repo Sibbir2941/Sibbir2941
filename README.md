@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/SQL-85%25-brightgreen" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML-85%25-yellow" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-80%25-blue" alt="CSS" />
-  <img src="https://img.shields.io/badge/Pawn%20Lang-75%25-yellow" alt="Pawn Lang" />
+  <img src="https://img.shields.io/badge/Pawn%20Lang-75%25-yellow" alt="Pwn" />
   <!-- Add more skills here -->
 </p>
 
