@@ -99,13 +99,6 @@
 
 
 
-<!-- Spotify Music -->
-<h3 align="center">Now Playing on Spotify:</h3>
-<p align="center">
-  🎧 [Listen to my Spotify Music](https://open.spotify.com/track/Sibbir)
-</p>
-
-
 
 <!-- Inspirational Quote -->
 <p align="center">
