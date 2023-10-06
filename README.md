@@ -31,7 +31,6 @@
 <p align="center">
   🚀 As a student who's passionate about coding, I'm continuously learning and experimenting with various programming languages and technologies. While I may not have certificates, my passion drives me to explore and innovate.
 </p>
-
 <!-- Skills -->
 <h3 align="center">Skills:</h3>
 <p align="center">
@@ -39,8 +38,13 @@
   <img src="https://img.shields.io/badge/Python-90%25-brightgreen" alt="Python" />
   <img src="https://img.shields.io/badge/Java-80%25-yellow" alt="Java" />
   <img src="https://img.shields.io/badge/C++-70%25-blue" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-85%25-brightgreen" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-85%25-yellow" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-80%25-blue" alt="CSS" />
+  <img src="https://img.shields.io/badge/Pawn%20Lang-75%25-yellow" alt="Pawn Lang" />
   <!-- Add more skills here -->
 </p>
+
 
 <!-- Inspirational Quote -->
 <p align="center">
