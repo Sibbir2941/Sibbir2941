@@ -2,9 +2,6 @@
 <h1 align="center">Hi there! 👋 I'm Mohammad Sibbir</h1>
 <h3 align="center">Crafting Engaging User Experiences with Code.</h3>
 
-<!-- Animated GIF -->
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
 <!-- Additional Information -->
 <p align="center">
   🌟 Welcome to my GitHub profile! I'm a passionate self-taught developer with a knack for coding and creating amazing experiences. Feel free to explore my projects and connect with me. Let's build something incredible together! 🌟
@@ -43,16 +40,6 @@
   <!-- Add more skills here -->
 </p>
 
-<!-- Projects -->
-<h3 align="center">Projects:</h3>
-<p align="center">
-  <!-- Highlight some of your personal projects or creations -->
-  <strong>Project Name 1:</strong><br>
-  Description: Share a brief overview of your project and the technologies you used.<br>
-  
-  <strong>Project Name 2:</strong><br>
-  Description: Provide insights into another exciting project you've worked on.<br>
-</p>
 
 <!-- Inspirational Quote -->
 <p align="center">
