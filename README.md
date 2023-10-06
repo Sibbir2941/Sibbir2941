@@ -8,7 +8,7 @@
 </p>
 
 <!-- Profile Views -->
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=sibbir2941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -62,12 +62,11 @@
 
 
 
-
 <!-- Contact Information -->
 <h3 align="center">Contact Information:</h3>
 <p align="center">
-  ✉️ Email: asibbir997@gmail.com<br />
-  📱 Discord: mohammadsibbir<br />
+  ✉️ Email: [asibbir997@gmail.com](mailto:asibbir997@gmail.com)<br />
+  📱 Discord: mohammadsibbir#1234<br />
   <!-- You can add more contact details as needed -->
 </p>
 
