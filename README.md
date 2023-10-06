@@ -12,19 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=sibbir2941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Social Links -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/mohammad_sibbir" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mohammad_sibbir?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammadsibbir/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/sleeping_sibbir" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
-</p>
 
 <!-- Personal Statement -->
 <h3 align="center">About Me:</h3>
@@ -37,6 +24,16 @@
 <p align="center">
   📚 Self-taught programmer with a focus on practical skills.
 </p>
+
+
+<!-- Awards and Achievements -->
+<h3 align="center">Awards and Achievements:</h3>
+<p align="center">
+  🏆 Winner of Coding Competition - 2023<br />
+  🥇 Certificate in Web Development from Cybxer Institute - 2023<br />
+  <!-- Add more awards and achievements as applicable -->
+</p>
+
 
 <!-- Skills -->
 <h3 align="center">Skills:</h3>
@@ -65,14 +62,6 @@
 
 
 
-<!-- Awards and Achievements -->
-<h3 align="center">Awards and Achievements:</h3>
-<p align="center">
-  🏆 Winner of Coding Competition - 2023<br />
-  🥇 Certificate in Web Development from Cybxer Institute - 2023<br />
-  <!-- Add more awards and achievements as applicable -->
-</p>
-
 
 <!-- Contact Information -->
 <h3 align="center">Contact Information:</h3>
@@ -81,6 +70,21 @@
   📱 Discord: mohammadsibbir<br />
   <!-- You can add more contact details as needed -->
 </p>
+
+<!-- Social Links -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/mohammad_sibbir" target="blank">
+    <img src="https://img.shields.io/twitter/follow/mohammad_sibbir?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammadsibbir/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/sleeping_sibbir" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+</p>
+
 
 <!-- Contributions Graph -->
 <h3 align="center">GitHub Contributions:</h3>
