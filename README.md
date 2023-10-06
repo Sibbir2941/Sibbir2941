@@ -96,6 +96,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sibbir2941&show_icons=true&theme=radical" alt="GitHub Activity" /><br />
   <!-- You can showcase your recent GitHub activity here -->
 </p>
+
+<!-- Spotify Music -->
+<h3 align="center">Now Playing on Spotify:</h3>
+<p align="center">
+  <iframe src="https://open.spotify.com/embed/track/your_track_id" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</p>
+
 <!-- Inspirational Quote -->
 <p align="center">
   💡 Learning never exhausts the mind.
