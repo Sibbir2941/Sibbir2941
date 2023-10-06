@@ -72,12 +72,8 @@
   </a>
 </p>
 
-<!-- GitHub Contributions -->
-<h3 align="center">GitHub Contributions:</h3>
-<p align="center">
-  <img src="https://github.com/sibbir2941/sibbir2941/blob/main/images/contributions-graph.png" alt="GitHub Contributions Graph" /><br />
-  <!-- You can embed your GitHub contributions graph here -->
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sibbir2941&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## 🏆 GitHub Trophies
