@@ -38,6 +38,20 @@
   📚 Self-taught programmer with a focus on practical skills.
 </p>
 
+<!-- Skills -->
+<h3 align="center">Skills:</h3>
+<p align="center">
+  <!-- Customize the proficiency level as needed -->
+  <img src="https://img.shields.io/badge/Python-90%25-brightgreen" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-80%25-yellow" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-70%25-blue" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-85%25-brightgreen" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-85%25-yellow" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-80%25-blue" alt="CSS" />
+  <img src="https://img.shields.io/badge/Pawn%20Lang-75%25-yellow" alt="Pwn" />
+  <!-- Add more skills here -->
+</p>
+
 
 
 
