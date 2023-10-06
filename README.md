@@ -35,8 +35,15 @@
 <!-- Skills with Icons -->
 <h3 align="center">Skills:</h3>
 <p align="center">
-  <!-- Customize your skills or showcase your favorite languages -->
-  Python &nbsp; Java &nbsp; C++ &nbsp; JavaScript &nbsp; HTML & CSS &nbsp; PHP &nbsp; SQL &nbsp; 
+  <!-- Use icons for each skill -->
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" title="PHP" />&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" />&nbsp;
   <!-- Add more skills here -->
 </p>
 
